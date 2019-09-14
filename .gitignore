@@ -33,4 +33,4 @@ ncscope.*
 
 #ctag files
 tags
-
+bsp/stm32/stm32f407-ejd
